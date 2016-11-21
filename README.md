@@ -1,0 +1,2 @@
+# lagou
+这是一个关于爬取拉勾网python招聘资料的scrapy简单爬虫
